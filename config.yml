@@ -1,0 +1,13 @@
+# Konfiguracja pluginu GammaPlugin
+
+# Ustawienia wiadomości
+messages:
+  nightVisionGranted: "&aOtrzymałeś efekt gamma!"
+  nightVisionRevoked: "&cZdjąłeś efekt gamma!"
+
+# Ustawienia efektu
+effect:
+  duration: -1
+  amplifier: 0
+  ambient: true
+  particles: false
